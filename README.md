@@ -16,16 +16,28 @@
 
 
 ## How to run locally 🛠️
+
   1.Download code and unzip the folder
+  
   2.create virtual environment using the command below
+
       conda create -n harvestify 
+      
   3.Activate the enviroment using below command
+
       conda activate harvestify
+      
   4.Navigate to app folder using 
+
        cd app
+
+       
   4.Install required packages or modules using 
+  
       pip install -r requirements.txt
+      
   5.And finally run the project with
+  
       python app.py
   
 - Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
